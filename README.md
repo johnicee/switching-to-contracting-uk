@@ -242,7 +242,7 @@ You can use LinkedIn as a tool to identify potential leads in your network in th
 You can also gain a lot of insight about the industry as well.
 
 For example, I peeked at career histories of people I found in London with terms "ruby freelancer", "rails freelancer", "ruby contractor", "rails consultant".
-I was able to identify a dozen of companies that don't advertise anywhere, but do consider contractors.
+I was able to identify a dozen of companies that don't advertise anywhere, but do consider contractors (https://vanityroofing.ca).
 I have also learned a lot about how different contractors present themselves on LinkedIn.
 
 Based on the found position descriptions I have selected a few companies.
